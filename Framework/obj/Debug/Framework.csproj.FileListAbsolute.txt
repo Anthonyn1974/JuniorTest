@@ -1,0 +1,5 @@
+d:\Development\JuniorTest\Framework\obj\Debug\Framework.csprojResolveAssemblyReference.cache
+d:\Development\JuniorTest\Framework\bin\Debug\Framework.dll
+d:\Development\JuniorTest\Framework\bin\Debug\Framework.pdb
+d:\Development\JuniorTest\Framework\obj\Debug\Framework.dll
+d:\Development\JuniorTest\Framework\obj\Debug\Framework.pdb
